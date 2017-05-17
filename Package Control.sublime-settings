@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Can I Use",
+		"Color Highlighter",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"HTML5",
+		"InsertDate",
+		"jQuery",
+		"JsFormat",
+		"JSX",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Nodejs",
+		"NodeRequirer",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Spacegray",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
+	]
+}
